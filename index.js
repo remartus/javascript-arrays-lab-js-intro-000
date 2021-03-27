@@ -6,5 +6,5 @@ function destructivelyAppendKitten(name){
 }
 
 function destructivelyPrependKitten(name){
-  return kittnes.
+  return kittnes.shift(name)
 }
